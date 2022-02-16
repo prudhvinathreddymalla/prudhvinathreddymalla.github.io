@@ -1,0 +1,636 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Reddymalla - Data Science Consultant</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	
+	
+	<!-- Font -->
+	
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CAllura" rel="stylesheet">
+	
+	<!-- Stylesheets -->
+	
+	<link href="common-css/bootstrap.css" rel="stylesheet">
+	
+	<link href="common-css/ionicons.css" rel="stylesheet">
+	
+	<link href="common-css/fluidbox.min.css" rel="stylesheet">
+	
+	<link href="01-cv-portfolio/css/styles.css" rel="stylesheet">
+	
+	<link href="01-cv-portfolio/css/responsive.css" rel="stylesheet">
+	<link rel="shortcut icon" href="./images/favicon30.png">
+</head>
+<body>
+	
+	<header>
+		<div class="container">
+			<div class="heading-wrapper">
+				<div class="row">
+					<div class="col-sm-6 col-md-6 col-lg-7">
+						<div class="info">
+							<i class="icon ion-ios-location-outline"></i>
+							<div class="right-area">
+								<h5>Düsseldorf</h5>
+								<h5>Germany, 40210</h5>
+							</div><!-- right-area -->
+						</div><!-- info -->
+					</div><!-- col-sm-4 -->
+					
+					
+					
+					<div class="col-sm-6 col-md-6 col-lg-5">
+						<div class="info">
+							<i class="icon ion-ios-chatboxes-outline"></i>
+							<div class="right-area">
+								<b><a href="mailto:reddymalla.prudhvinath@outlook.de" target="_blank">reddymalla.prudhvinath@outlook.de</a></b>
+								<h6>(EXPECT REPLY IN 24 HOURS)</h6>
+							</div><!-- right-area -->
+						</div><!-- info -->
+					</div><!-- col-sm-4 -->
+				</div><!-- row -->
+			</div><!-- heading-wrapper -->
+			
+			<a class="downlad-btn" href="./files/CV_Reddymalla.pdf" target="_blank">Download CV</a>
+		</div><!-- container -->
+	</header>
+	
+	<section class="intro-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-1 col-lg-2"></div>
+				<div class="col-md-10 col-lg-8">
+					<div class="intro">
+						<div class="profile-img"><img src="images/profil.jpg" alt=""></div>
+						<h2><b>Prudhvinath Reddymalla</b></h2>
+						<h4 class="font-yellow">Data Science Consultant</h4>
+						<ul class="information margin-tb-30">
+							<li><b>BORN : </b>July 07, 1994</li>
+							<li><b>Languages : </b>English, German, Hindi, Telugu</li>
+							<li><b>EMAIL : </b><a href="mailto:reddymalla.prudhvinath@outlook.de" target="_blank">reddymalla.prudhvinath@outlook.de</a></li>
+							<li><b>Current Personal Project : </b>Responsive AI - Personal Assistant <a target="_blank"></a></li>
+							<li><b>Recent News : </b>AWS Certified Machine Learning Specialization <a href="https://aw.certmetrics.com/amazon/public/verification.aspx" target="_blank"></a></li>
+						</ul>
+						<ul class="social-icons">
+							<li><a href="https://www.linkedin.com/in/prudhvinath-reddymalla-8336a6173/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
+							<li><a href="https://github.com/prudhvinathreddymalla" target="_blank"><i class="ion-social-github"></i></a></li>
+							<li><a href="https://www.instagram.com/prudhvi_reddymalla/" target="_blank"><i class="ion-social-instagram"></i></a></li>
+							<li><a href="https://www.facebook.com/EM.prudhvi" target="_blank"><i class="ion-social-facebook"></i></a></li>
+							<li><a href="https://twitter.com/prudhvi2025" target="_blank"><i class="ion-social-twitter"></i></a></li>
+							<li><a href="mailto:reddymalla.prudhvinath@outlook.de" ><i class="ion-email"></i></a></li>
+						</ul>
+					</div><!-- intro -->
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- intro-section -->
+	
+	
+	
+	
+	<section class="about-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>ABOUT ME</b></h3>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					<p class="margin-b-50">I, Prudhvinath Reddymalla, am a Data Scientist living in Düsseldorf, Germany. I was born and raised in Hyderabad, India. <br />
+						I work with <a href="https://alter-solutions.de/ueber-uns/unternehmen/" target="_blank" >Alter Solutions Deutschland GmbH </a> as a Data Science Consultant. With more than an year of experience in working with Data science solutions, I have dealt with ESG data that provides investment signals to an end investor to make a decision about their investment portfolio, DevOps metrics data that includes customer behavioural analysis. <br />
+						I have a master's degree in Systems Engineering and Engineering Management with Reinforcement Learning, Machine Learning and Advanced Production Engineering as focus areas. I also have a bachelor degree in Mechanical Engineering. <br />
+						During my free time, I like to read research papers that are trending in Artificial Intelligence. In the recent times, I have also developed interest in Responsive AI applications and Production Intelligence. I am looking forward to getting to know more in that area. Any research papers suggestions are gleefully accepted. </p>
+
+		</div><!-- container -->
+	</section><!-- about-section -->
+	
+	<section class="experience-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>WORK EXPERIENCE</b></h3>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+				
+					<div class="experience margin-b-50">
+						<h4><b>DATA SCIENCE CONSULTANT</b></h4>
+						<h5 class="font-yellow"><b><a href="https://alter-solutions.de/" target="_blank">ALTER SOLUTIONS DEUTSCHLAND GMBH</a></b></h5>
+						<h7 class="margin-t-10">Düsseldorf, Germany</h7>
+						<h6 class="margin-t-10">October 2020 - Present</h6>
+						<p class="font-semi-white margin-tb-30">>>	Working on AI Usecases for Industries and Banking sector <br />
+						>>	Developing Industrial AI solutions and supporting other inhouse solutions<br />
+						>>	Active member of Improvement board that acts as the voice of each employee with management.<br />
+						>>	Active member of Cloud Guild that promotes the importance of Cloud usage.<br />
+						>>	Promoting the importance of AWS Sagemaker among all other cloud services.
+						</p>	
+						<ul class="list margin-b-30">
+							<li>Data Science.</li>
+							<li>Artificial Intelligence.</li>
+							<li>Advanced Analytics.</li>
+						</ul>
+					</div><!-- experience -->
+					
+					<div class="experience margin-b-50">
+						<h4><b>STUDENT RESEARCH ASSISTANT (Part time)</b></h4>
+						<h5 class="font-yellow"><b><a href="https://www4.fh-swf.de/de/home/" target="_blank">FACHHOCHSCHULE SÜDWESTFALEN</a></b></h5>
+						<h7 class="margin-t-10">Soest, Germany</h7>						
+						<h6 class="margin-t-10">August 2019 - June 2020</h6>
+						<p class="font-semi-white margin-tb-30">>>	Data Analysis and Visualization for Predictive maintainence of a peeling machine to eliminate the interruptions of work flow during 												production. <br />
+																>>	Coded Reinforcement learning (RL) environments and programmed RL agents as a solution to it.<br />
+																>>	Implemented and collected results of hypotheses generated by PhD students. <br />
+																>>	Worked on deep neural networks using gradient monitoring for RL agents. <br />
+																>>	Contributed for more than 2 research papers publications as a part of the job.</p>
+						<ul class="list margin-b-30">
+							<li>Data Analysis and Visualization.</li>
+							<li>Machine Learning.</li>
+							<li>Reinforcement Learning.</li>
+							<li>Automation.</li>
+						</ul>
+					</div><!-- experience -->
+
+					<div class="experience margin-b-50">
+						<h4><b>TRMS INVESTIGATOR - German</b></h4>
+						<h5 class="font-yellow"><b>AMAZON DEVELOPMENT CENTRE PVT LTD</b></h5>
+						<h7 class="margin-t-10">Hyderabad, India</h7>
+						<h6 class="margin-t-10">September 2015 - March 2018</h6>
+						<p class="font-semi-white margin-tb-30">>>	Fraud risk analysis based on the data generated by customer.<br />
+																>>	Eliminated credit risk based on the previous order history. <br />
+																>>	Contributed in creating new standard operating procedures based on the ongoing fraud patterns and modus operandi.<br />
+																>>	Carefully investigated the B2B customer registration to eliminate fraud risk.<br />
+																>>	Conducted all the leadership principles dexterously with customer obsession as prime principle.<br /></p>						 
+						<ul class="list margin-b-30">
+							<li>Transaction Risk Management Services</li>
+							<li>Customer behavioural analysis</li>
+						</ul>
+					</div><!-- experience -->
+					
+					<div class="experience margin-b-50">
+						<h4><b>Intern</b></h4>
+						<h5 class="font-yellow"><b>Diesel Loco Shed (South Cental Railway)</b></h5>
+						<h7 class="margin-t-10">Kazipet, India</h7>
+						<h6 class="margin-t-10">June 2014</h6>
+						<ul class="list margin-b-30"><br/>
+							<li>Worked on the maintenance of diesel locomotives.</li>
+							<li>Learnt service maintenance of different sections on a diesel locomotive.</li>
+							<li>Documented and presented the learnings as a mini project. </li>
+						</ul>
+					</div><!-- experience -->
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+	</section><!-- experience-section -->
+	
+	<section class="education-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>EDUCATION</b></h3>
+						<h6 class="font-lite-black"><b>ACADEMIC CAREER</b></h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					<div class="education-wrapper">
+						<div class="education margin-b-50">
+							<h4><b>Systems Engineering and Engineering Management</b></h4>
+							<h5 class="font-yellow">Master of Science<b></b></h5>
+							<h7 class="margin-t-10"><a href="https://www4.fh-swf.de/de/home/" target="_blank">Fachhochschule Südwestfalen, Soest, Germany</a></h7>
+							<h6 class="font-lite-black margin-t-10">April 2018 - August 2020</h6>
+							<h6 class="font-lite-black margin-tb-30">Thesis:<a href="./files/Thesis_abstract_reddymalla.pdf" target="_blank"> Throughput Maximisation of Job-Shop Scheduling Problems (JSSP) using Graph Networks in Reinforcement Learning</a> </h6>
+						</div><!-- education -->
+						
+						<div class="education margin-b-50">
+							<h4><b>Mechanical Engineering</b></h4>
+							<h5 class="font-yellow">Bachelor of Technology<b></b></h5>
+							<h7 class="margin-t-10">Jawaharlal Nehru Technological University, Hyderabad, India</h7>
+							<h6 class="font-lite-black margin-t-10">September 2011 - May 2015</h6>
+							<h6 class="font-lite-black margin-t-10">Thesis: Design and Development of Unmanned Aerial and Ground Vehicle</h6>
+						</div><!-- education -->
+						
+					</div><!-- education-wrapper -->
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+	</section><!-- about-section -->
+
+
+	<section class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>SKILLS </b></h3>
+						<h6 class="font-lite-black"><b>Programming languages</b></h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					
+					<div class="row"><br><br>
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">Python</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+					
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".75">
+									<div></div><br><br>
+									<h6 class="progress-title">SQL</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".70">
+									<div></div><br><br>
+									<h6 class="progress-title">Java</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".50">
+									<div></div><br><br>
+									<h6 class="progress-title">R</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+
+
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">MATLAB</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->	
+					</div><!-- row -->
+					</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- about-section -->
+	<section class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h6 class="font-lite-black"><b>TOOLS AND TECHNOLOGIES</b></h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					<div class="row"><br><br>
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">GIT</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+					
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".95">
+									<div></div><br><br>
+									<h6 class="progress-title">Spyder</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".70">
+									<div></div><br><br>
+									<h6 class="progress-title">PyCharm</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-50">
+								<div class="radial-progress" data-prog-percent=".70">
+									<div></div><br><br>
+									<h6 class="progress-title">AWS</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+										
+					</div><!-- row -->
+					<div class="row">
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".97">
+									<div></div>
+									<h6 class="progress-title">Jupyter Notebook</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+					
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".80">
+									<div></div>
+									<h6 class="progress-title">VS Code</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".50">
+									<div></div>
+									<h6 class="progress-title">Tableau</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".60">
+									<div></div>
+									<h6 class="progress-title">Celonis</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".50">
+									<div></div>
+									<h6 class="progress-title">MiniTab</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".60">
+									<div></div>
+									<h6 class="progress-title">AutoCAD</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".65">
+									<div></div>
+									<h6 class="progress-title">Catia V5</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+					</div><!-- row -->
+					</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- about-section -->
+	<section class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h6 class="font-lite-black"><b>PYTHON LIBRARIES</b></h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					
+					<div class="row"><br><br>
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">PyTorch</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+					
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".75">
+									<div></div><br><br>
+									<h6 class="progress-title">Keras</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".75">
+									<div></div><br><br>
+									<h6 class="progress-title">TensorFlow</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">Gym</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+
+
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">Scikit-Learn</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->	
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">XGBoost</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".90">
+									<div></div><br><br>
+									<h6 class="progress-title">Plotly</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".60">
+									<div></div><br><br>
+									<h6 class="progress-title">Flask</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-30">
+								<div class="radial-progress" data-prog-percent=".80">
+									<div></div><br><br>
+									<h6 class="progress-title">Streamlit</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+					</div><!-- row -->
+					</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- about-section -->
+
+
+	<section class="experience-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>CERTIFICATIONS</b></h3>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					<div class="experience margin-b-50">
+						<h4><b><a href="https://www.credly.com/badges/7271049b-a336-47db-af39-8886a259c5fc" target="_blank">AWS Certified Machine Learning – Specialty</a></b></h4>
+						<h5 class="font-yellow"><b>Amazon Web Services (AWS)</b></h5>
+						<h6 class="margin-t-10">February, 2022</h6>
+					<div class="experience margin-b-50">
+						<h4><b><a href="https://www.youracclaim.com/badges/e8ad72aa-7c99-405c-afc9-05bf732a7243?source=linked_in_profile" target="_blank">AWS Certified Cloud Practitioner</a></b></h4>
+						<h5 class="font-yellow"><b>Amazon Web Services (AWS)</b></h5>
+						<h6 class="margin-t-10">December, 2020</h6>
+					</div><!-- experience -->
+					<div class="experience margin-b-50">
+						<h4><b><a href="./files/Celonis_Analyst.pdf" target="_blank">Celonis Data Analyst</a></b></h4>
+						<h5 class="font-yellow"><b>Celonis Academy</b></h5>
+						<h6 class="margin-t-10">September, 2020</h6>
+					</div><!-- experience -->
+					<div class="experience margin-b-50">
+						<h4><b><a href="./files/Celonis_DataEngineer.pdf" target="_blank">Celonis Data Engineer</a></b></h4>
+						<h5 class="font-yellow"><b>Celonis Academy</b></h5>
+						<h6 class="margin-t-10">September, 2020</h6>
+					</div><!-- experience -->
+					<div class="experience margin-b-50">
+						<h4><b><a href="https://certificates.benchmarksixsigma.com/1a865d98-aef5-478c-af9e-7646446a9aaf" target="_blank">Lean Six Sigma Green Belt</a></b></h4>
+						<h5 class="font-yellow"><b>Benchmark Six Sigma</b></h5>
+						<h6 class="margin-t-10">May, 2020</h6>
+					</div><!-- experience -->
+					
+					<div class="experience margin-b-50">
+						<h4><b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ECNRH62M7TR6" target="_blank">Reinforcement Learning Specialization</a></b></h4>
+						<h5 class="font-yellow"><b>Coursera</b></h5>
+						<h6 class="margin-t-10">February, 2020</h6>
+					</div><!-- experience -->
+
+					<div class="experience margin-b-50">
+						<h4><b><a href="https://www.coursera.org/account/accomplishments/certificate/CR72WZJM5SX6" target="_blank">Neural Networks and Deep Learning</a></b></h4>
+						<h5 class="font-yellow"><b>Coursera</b></h5>
+						<h6 class="margin-t-10">March, 2020</h6>
+					</div><!-- experience -->
+					
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- about-section -->
+
+	<section class="projects-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>Projects</b></h3>
+					</div>
+				</div><!-- col-sm-4 -->
+					<div class="col-sm-8">
+						<h3 class="font-yellow"><b>All the projects are updated in GitHub repository.</b></h3>
+					<h4><b>Please visit, <a href="https://github.com/prudhvinathreddymalla" target="_blank"> github.com/prudhvinathreddymalla</a> repo for all the projects. </b></h4>				
+			</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- quoto-section -->
+
+	<section class="awards-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>AWARDS</b></h3>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					<div class="experience margin-b-50">
+						<h4><b>Investigator of the Month and Debt Star Award</b></h4>
+						<h5 class="font-yellow"><b>Awarded by: TRMS Language Org., Amazon Development Centre </b></h5>
+						<h6 class="margin-t-10">2016</h6>
+					</div><!-- experience -->
+					<div class="experience margin-b-50">
+						<h4><b>Ideal Student for Talent and Best Outgoing Student</b></h4>
+						<h5 class="font-yellow"><b>Awarded by: Indian Society for Technical Education(ISTE) - GNIT</b></h5>
+						<h6 class="margin-t-10">2015</h6>
+					</div><!-- experience -->
+					<div class="experience margin-b-50">
+						<h4><b>Best Class Representative of the Year</b></h4>
+						<h5 class="font-yellow"><b>Guru Nanak Institute of Technology</b></h5>
+						<h6 class="margin-t-10">2014 and 2015</h6>
+					</div><!-- experience -->
+					
+					<div class="experience margin-b-50">
+						<h4><b>Most Talented Volunteer</b></h4>
+						<h5 class="font-yellow"><b>Street Cause (NGO)</b></h5>
+						<h6 class="margin-t-10">2013</h6>
+					</div><!-- experience -->
+
+					<div class="experience margin-b-50">
+						<h4><b>First Prize</b></h4>
+						<h5 class="font-yellow"><b>District Level Science Exhibition</b></h5>
+						<h6 class="margin-t-10">2008</h6>
+						<p class="margin-t-10">Awarded first prize in District Level Science Exhibition and represented my school in State Level Exhibition for 'Eco-friendly handmade paper from Banana peels and stems' during high school. </p>
+					</div><!-- experience -->
+					
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- about-section -->
+
+
+
+<section class="footer-section section">	
+	<footer>
+		<p class="copyright">
+			<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Prudhvinath Reddymalla &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | HTML Credits: <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+		</p>
+	</footer>
+</section><!-- about-section -->
+	
+	
+	<!-- SCIPTS -->
+	
+	<script src="common-js/jquery-3.2.1.min.js"></script>
+	
+	<script src="common-js/tether.min.js"></script>
+	
+	<script src="common-js/bootstrap.js"></script>
+	
+	<script src="common-js/isotope.pkgd.min.js"></script>
+	
+	<script src="common-js/jquery.waypoints.min.js"></script>
+	
+	<script src="common-js/progressbar.min.js"></script>
+	
+	<script src="common-js/jquery.fluidbox.min.js"></script>
+	
+	<script src="common-js/scripts.js"></script>
+	
+</body>
+</html>
